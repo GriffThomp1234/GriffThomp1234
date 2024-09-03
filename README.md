@@ -7,15 +7,14 @@
 - 💻 I’m skilled in Python, C++, R, and Julia, and have hands-on experience in deploying code on physical hardware, especially in robotics and neurotechnology.
 - ✍️ In addition to my technical work, I’m also a freelance technical writer. I specialize in creating high-quality documentation, tutorials, and guides that demystify complex technologies, particularly in AI, robotics, and MedTech. You can explore my work in my [GriffinTechWrite repository](https://github.com/griffthomp/GriffinTechWrite).
 
-- Check out my [Resume](https://github.com/GriffThomp1234/GriffThomp1234/blob/main/docs/Resume-Yes.pdf) for more info.
+- Check out my [Resume](https://github.com/GriffThomp1234/GriffThomp1234/blob/main/docs/Resume.pdf) for more info.
 
 
 
 
 
 ## 🔗 Connect with me:
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/griffthomp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/griffthomp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/griffin-thompson-a42965214/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:griffin.thompson@yale.edu)
 
 
