@@ -7,7 +7,8 @@
 - 💻 I’m skilled in Python, C++, R, and Julia, and have hands-on experience in deploying code on physical hardware, especially in robotics and neurotechnology.
 - ✍️ In addition to my technical work, I’m also a freelance technical writer. I specialize in creating high-quality documentation, tutorials, and guides that demystify complex technologies, particularly in AI, robotics, and MedTech. You can explore my work in my [GriffinTechWrite repository](https://github.com/griffthomp/GriffinTechWrite).
 
-- Check out my ![Resume](https://github.com/GriffThomp1234/GriffThomp1234/raw/main/docs/Resume-Yes.pdf)
+- Check out my [Resume](https://github.com/GriffThomp1234/GriffThomp1234/blob/main/docs/Resume-Yes.pdf) for more info.
+
 
 
 
