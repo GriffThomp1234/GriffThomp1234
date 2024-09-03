@@ -9,6 +9,7 @@
 - 🌐 Check out my \href{https://github.com/GriffThomp1234/GriffThomp1234/raw/main/docs/Resume-Yes.pdf}{resume} for more info.
 
 
+
 ## 🔗 Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/griffthomp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/griffthomp)
