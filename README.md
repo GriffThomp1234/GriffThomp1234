@@ -13,7 +13,7 @@
 Welcome to my research portfolio! I'm passionate about using AI, robotics, and computational tools to solve real-world problems in areas like neurotechnology, soft robotics, and medical devices.
 
 ## Research Projects
-### 1. [From Skeletal Motion to Conformal Geometric Algebra: A Novel Approach to Human Motion Modeling](https://github.com/GriffThomp1234/cga-motion-modeling)**
+### 1. [From Skeletal Motion to Conformal Geometric Algebra: A Novel Approach to Human Motion Modeling](https://github.com/GriffThomp1234/cga-motion-modeling)
 - **Affiliation**: Yale University, Apollo Lab, Yale Department of Computer Science   
 - **Goal**: Pioneered the first-ever neural network framework leveraging Conformal Geometric Algebra (CGA) for skeletal motion modeling, aimed at advancing robotics simulations.  
 - **Result**: Developed a CGA-specific autoencoder that encodes and reconstructs complex human motion, achieving groundbreaking precision with a reconstruction loss as low as 0.00059. This work showcases CGA’s unmatched potential for real-time motion simulation in robotics, biomechanics, and sports analytics.  
