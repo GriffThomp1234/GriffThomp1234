@@ -13,13 +13,19 @@
 Welcome to my research portfolio! I'm passionate about using AI, robotics, and computational tools to solve real-world problems in areas like neurotechnology, soft robotics, and medical devices.
 
 ## Research Projects
+### 1. [From Skeletal Motion to Conformal Geometric Algebra: A Novel Approach to Human Motion Modeling](https://github.com/GriffThomp1234/cga-motion-modeling)**
+- **Affiliation**: Yale University, Apollo Lab, Yale Department of Computer Science   
+- **Goal**: Pioneered the first-ever neural network framework leveraging Conformal Geometric Algebra (CGA) for skeletal motion modeling, aimed at advancing robotics simulations.  
+- **Result**: Developed a CGA-specific autoencoder that encodes and reconstructs complex human motion, achieving groundbreaking precision with a reconstruction loss as low as 0.00059. This work showcases CGA’s unmatched potential for real-time motion simulation in robotics, biomechanics, and sports analytics.  
+- **Ongoing Impact**: This foundational research directly contributes to my ongoing research in robotics, where CGA-based simulations will be tested on physical robotic systems
+- **Highlights**: [Read the full paper](https://github.com/GriffThomp1234/cga-motion-modeling/blob/main/docs/Final_Thesis.pdf) | [View the research poster](https://github.com/GriffThomp1234/cga-motion-modeling/blob/main/docs/Research_Poster.pdf)  
 
-### 1. [Enhancing DiffSDFSim for Advanced Robotics Applications](https://github.com/GriffThomp1234/DiffSDFSim_Enhancements)
-- **Affiliation:** GRAB Lab, Yale Robotics
+### 2. [Enhancing DiffSDFSim for Advanced Robotics Applications](https://github.com/GriffThomp1234/DiffSDFSim_Enhancements)
+- **Affiliation:** Yale University, GRAB Lab, Yale Department of Computer Science 
 - **Goal:** Improved contact clustering, LCP solvers, and penetration handling to enable high-fidelity robotics simulations in the GRAB Lab.
 - **Result:** These advancements transform DiffSDFSim into a robust tool for advanced robotic simulations, enabling more realistic and efficient tasks like object manipulation, navigation, and human-robot interaction within the GRAB Lab at Yale.
 - **Highlights:** [Read the full write-up here](https://github.com/GriffThomp1234/DiffSDFSim_Enhancements/blob/main/docs/GrabLab_Paper.pdf). 
-### 2. [Investigating Developmental Origins of Sarcomas through Computational Modeling](https://github.com/GriffThomp1234/sarcoma-developmental-modeling/tree/main)
+### 3. [Investigating Developmental Origins of Sarcomas through Computational Modeling](https://github.com/GriffThomp1234/sarcoma-developmental-modeling/tree/main)
 - **Affiliation**: Shlien Lab, SickKids, Toronto  
 - **Goal**: Develop computational pipelines and machine learning models to analyze single-cell RNA sequencing data and infer the developmental origins of sarcomas.  
 - **Result**: Designed end-to-end bioinformatics workflows leveraging tools like R, OTTER, and UMAP to identify transcriptional signatures and developmental trajectories of sarcoma subtypes. Contributed to a multi-year project challenging existing models of sarcoma origins, paving the way for improved diagnostics and treatments.  
