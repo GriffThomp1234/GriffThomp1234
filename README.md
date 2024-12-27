@@ -19,10 +19,12 @@ Welcome to my research portfolio! I'm passionate about using AI, robotics, and c
 - **Goal:** Improved contact clustering, LCP solvers, and penetration handling to enable high-fidelity robotics simulations in the GRAB Lab.
 - **Result:** These advancements transform DiffSDFSim into a robust tool for advanced robotic simulations, enabling more realistic and efficient tasks like object manipulation, navigation, and human-robot interaction within the GRAB Lab at Yale.
 - **Highlights:** [Read the full write-up here](https://github.com/GriffThomp1234/DiffSDFSim_Enhancements/blob/main/docs/GrabLab_Paper.pdf). 
-### 2. [Neuroprosthetics Signal Optimization](https://github.com/GriffinThomp1234/Neuroprosthetics_Research)
-- **Goal:** Developed algorithms for filtering and interpreting neural signals for adaptive prosthetics.
-- **Result:** Increased signal clarity by 30%, improving real-time response of devices.
-- **Highlights:** [Read the full write-up here](https://github.com/GriffinThomp1234/Neuroprosthetics_Research/blob/main/Project_Report.pdf).
+### 2. [Investigating Developmental Origins of Sarcomas through Computational Modeling](https://github.com/GriffinThomp1234/Neuroprosthetics_Research)
+- **Affiliation**: Shlien Lab, SickKids, Toronto  
+- **Goal**: Develop computational pipelines and machine learning models to analyze single-cell RNA sequencing data and infer the developmental origins of sarcomas.  
+- **Result**: Designed end-to-end bioinformatics workflows leveraging tools like R, OTTER, and UMAP to identify transcriptional signatures and developmental trajectories of sarcoma subtypes. Contributed to a multi-year project challenging existing models of sarcoma origins, paving the way for improved diagnostics and treatments.  
+- **Highlights**: [Read the full write-up here](https://github.com/GriffThomp1234/DiffSDFSim_Enhancements/blob/main/docs/GrabLab_Paper.pdf).*Note: Code is proprietary as this research is part of an unpublished study.*  
+
 
 ### 3. [Soft Robotics for Surgical Applications](https://github.com/GriffinThomp1234/SoftRobotics_Surgery)
 - **Goal:** Designed and simulated soft robotic tools for minimally invasive surgeries.
