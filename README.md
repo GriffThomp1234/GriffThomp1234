@@ -23,7 +23,7 @@ Welcome to my research portfolio! I'm passionate about using AI, robotics, and c
 - **Affiliation**: Shlien Lab, SickKids, Toronto  
 - **Goal**: Develop computational pipelines and machine learning models to analyze single-cell RNA sequencing data and infer the developmental origins of sarcomas.  
 - **Result**: Designed end-to-end bioinformatics workflows leveraging tools like R, OTTER, and UMAP to identify transcriptional signatures and developmental trajectories of sarcoma subtypes. Contributed to a multi-year project challenging existing models of sarcoma origins, paving the way for improved diagnostics and treatments.  
-- **Highlights**: [Read the full write-up here](https://github.com/GriffThomp1234/DiffSDFSim_Enhancements/blob/main/docs/GrabLab_Paper.pdf).*Note: Code is proprietary as this research is part of an unpublished study.*  
+- **Highlights**: [Read the full write-up here](https://github.com/GriffThomp1234/DiffSDFSim_Enhancements/blob/main/docs/GrabLab_Paper.pdf). *Note: Code is proprietary as this research is part of an unpublished study.*  
 
 
 ### 3. [Soft Robotics for Surgical Applications](https://github.com/GriffinThomp1234/SoftRobotics_Surgery)
