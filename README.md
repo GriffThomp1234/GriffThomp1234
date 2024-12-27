@@ -14,7 +14,7 @@ Welcome to my research portfolio! I'm passionate about using AI, robotics, and c
 
 ## Research Projects
 
-### 1. [Enhancing DiffSDFSim for Advanced Robotics Applications](https://github.com/GriffinThomp1234/DiffSDFSim_Enhancements)
+### 1. [Enhancing DiffSDFSim for Advanced Robotics Applications](https://github.com/GriffThomp1234/DiffSDFSim_Enhancements)
 - **Affiliation:** GRAB Lab, Yale Robotics
 - **Goal:** Improved contact clustering, LCP solvers, and penetration handling to enable high-fidelity robotics simulations in the GRAB Lab.
 - **Result:** These advancements transform DiffSDFSim into a robust tool for advanced robotic simulations, enabling more realistic and efficient tasks like object manipulation, navigation, and human-robot interaction within the GRAB Lab at Yale.
