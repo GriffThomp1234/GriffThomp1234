@@ -44,6 +44,13 @@ This repository will be updated with further developments in physical robotic ap
 - **Goal**: Develop computational pipelines and machine learning models to analyze single-cell RNA sequencing data and infer the developmental origins of sarcomas.  
 - **Result**: Designed end-to-end bioinformatics workflows leveraging tools like R, OTTER, and UMAP to identify transcriptional signatures and developmental trajectories of sarcoma subtypes. Contributed to a multi-year project challenging existing models of sarcoma origins, paving the way for improved diagnostics and treatments.  
 - **Highlights**: [Read the full write-up here](https://github.com/GriffThomp1234/sarcoma-developmental-modeling/blob/main/docs/Sarcoma.pdf). *Note: Code is proprietary as this research is part of an unpublished study.*  
+### **5. [Fiber 3D Simulation Project](https://github.com/GriffThomp1234/FiberSimulationProject)**
+- **Affiliation**: Personal Project  
+- **Goal**: Simulating the behavior and interactions of fibers in 3D space to study their mechanical properties, structural formations, and interactions under various conditions. This project has applications in industries such as textiles, materials science, biomedical engineering, and composite material design.  
+- **Current Status**: Developing a 3D modeling framework for fiber mechanics and interactions. Currently integrating forces like friction, tension, and environmental conditions into the simulation pipeline. Key areas of exploration include elasticity, stiffness, and tensile strength of fibers.  
+- **Ongoing Impact**: The project aims to contribute to the development of improved materials, such as more durable textiles, optimized composite materials, and advanced tissue scaffolding. This work could also enhance manufacturing processes for fiber-based materials.  
+- **Note: Future Updates**:  
+  - The repository will include updates on the simulation framework, fiber interaction models, and applied case studies as the project progresses.
 
 ## Skills
 - **Programming:** Python, C++, Julia, R
