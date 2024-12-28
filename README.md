@@ -28,17 +28,21 @@ This repository will be updated with further developments in physical robotic ap
 - **Goal:** Improved contact clustering, LCP solvers, and penetration handling to enable high-fidelity robotics simulations in the GRAB Lab.
 - **Result:** These advancements transform DiffSDFSim into a robust tool for advanced robotic simulations, enabling more realistic and efficient tasks like object manipulation, navigation, and human-robot interaction within the GRAB Lab at Yale.
 - **Highlights:** [Read the full write-up here](https://github.com/GriffThomp1234/DiffSDFSim_Enhancements/blob/main/docs/GrabLab_Paper.pdf). 
-### 3. [Investigating Developmental Origins of Sarcomas through Computational Modeling](https://github.com/GriffThomp1234/sarcoma-developmental-modeling/tree/main)
+
+### **3. Diffusion Policy System for Action Prediction in Robotics**
+- **Affiliation**: Yale University, Apollo Lab, Yale Department of Computer Science  
+- **Goal**: Developing a novel diffusion policy system for action prediction in bimanual robotic systems. This project employs a specialized spiking U-Net neural network architecture tailored to handle the unique challenges of dynamic, coordinated robotic actions.  
+- **Current Status**: All iterations of the spiking U-Net architecture have been developed and are currently being tested to identify the optimal configuration with the best loss metrics. These results will inform the next steps of integrating the system into physical robotic platforms for validation and refinement.  
+- **Ongoing Impact**: This research contributes to the next generation of robotics by integrating cutting-edge neural architectures with diffusion models. The results are expected to advance robotic autonomy, with applications in manufacturing, healthcare, and human-robot collaboration.  
+- **Note: Future Updates**:  
+  - A research paper and code for the diffusion policy system will be released in late February after submission rounds to publication are complete.  
+  - The repository will also include updates on experiments testing this system in real-world bimanual robotic environments.
+
+### 4. [Investigating Developmental Origins of Sarcomas through Computational Modeling](https://github.com/GriffThomp1234/sarcoma-developmental-modeling/tree/main)
 - **Affiliation**: Shlien Lab, SickKids, Toronto  
 - **Goal**: Develop computational pipelines and machine learning models to analyze single-cell RNA sequencing data and infer the developmental origins of sarcomas.  
 - **Result**: Designed end-to-end bioinformatics workflows leveraging tools like R, OTTER, and UMAP to identify transcriptional signatures and developmental trajectories of sarcoma subtypes. Contributed to a multi-year project challenging existing models of sarcoma origins, paving the way for improved diagnostics and treatments.  
 - **Highlights**: [Read the full write-up here](https://github.com/GriffThomp1234/sarcoma-developmental-modeling/blob/main/docs/Sarcoma.pdf). *Note: Code is proprietary as this research is part of an unpublished study.*  
-
-
-### 3. [Soft Robotics for Surgical Applications](https://github.com/GriffinThomp1234/SoftRobotics_Surgery)
-- **Goal:** Designed and simulated soft robotic tools for minimally invasive surgeries.
-- **Result:** Validated dexterity and precision of designs through physics-based simulations.
-- **Highlights:** [Read the full write-up here](https://github.com/GriffinThomp1234/SoftRobotics_Surgery/blob/main/Project_Report.pdf).
 
 ## Skills
 - **Programming:** Python, C++, Julia, R
