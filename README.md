@@ -54,10 +54,18 @@ This repository will be updated with further developments in physical robotic ap
 - **Note: Future Updates**:  
   - The repository will include updates on the simulation framework, fiber interaction models, and applied case studies as the project progresses.
 
-## Skills
-- **Programming:** Python, C++, Julia, R
-- **Tools:** PyTorch, TensorFlow, ROS, OpenCV, MATLAB
-- **Specialties:** Robotics, physics-based simulations, AI-driven optimizations
+## Skills  
+- **Programming**: Python, C++, Julia, R, MATLAB.  
+- **Tools**: PyTorch, TensorFlow, ROS, OpenCV, Seurat, Mediapipe, Open3D, Blender.  
+- **CAD & Simulation**: SolidWorks, AutoCAD, FEM (Finite Element Modeling), and thermal analysis tools (e.g., ANSYS).  
+- **Specialties**:  
+  - Robotics: Human-robot interaction, trajectory planning, bimanual manipulation.  
+  - AI & Machine Learning: Neural networks, diffusion models, optimization algorithms.  
+  - Physics-Based Simulations: High-fidelity motion modeling, fiber dynamics, and thermal simulations.  
+  - Computational Biology: RNA sequencing analysis, bioinformatics pipelines.  
+  - Geometric Algebra: Conformal Geometric Algebra (CGA) for motion modeling.  
+- **Research Strengths**: Data visualization, experimental validation, interdisciplinary collaboration.  
+
 
 
 
