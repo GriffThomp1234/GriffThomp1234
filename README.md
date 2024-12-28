@@ -10,7 +10,7 @@
 
 # Griffin Thompson's Research Portfolio
 
-Welcome to my research portfolio! This repository categorizes and details my current research projects across diverse fields, including robotics, computational biology, and materials science. Many of these projects involve private code repositories that will be made public following publication rounds to protect intellectual property.
+Welcome to my research portfolio! This repository categorizes and details my current research projects across diverse fields, including robotics, computational biology, and materials science. Many of these projects involve private code repositories that will be made public following publication rounds to protect intellectual property. My work spans three university-lab-affiliated research projects(Yale), a professional collaboration with the Shlien Lab at SickKids Hospital in Toronto, and a private project in materials science.
 
 For each project, I provide full project reports, detailed explanations of my contributions, and insights into the ongoing impact and future developments. Below is an overview of my active research projects, showcasing the breadth and depth of my work.
 
