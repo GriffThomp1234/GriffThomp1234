@@ -18,6 +18,9 @@ Welcome to my research portfolio! I'm passionate about using AI, robotics, and c
 - **Goal**: Pioneered the first-ever neural network framework leveraging Conformal Geometric Algebra (CGA) for skeletal motion modeling, aimed at advancing robotics simulations.  
 - **Result**: Developed a CGA-specific autoencoder that encodes and reconstructs complex human motion, achieving groundbreaking precision with a reconstruction loss as low as 0.00059. This work showcases CGA’s unmatched potential for real-time motion simulation in robotics, biomechanics, and sports analytics.  
 - **Ongoing Impact**: This foundational research directly contributes to my ongoing research in robotics, where CGA-based simulations will be tested on physical robotic systems
+- ### Note: Future Updates
+This repository will be updated with further developments in physical robotic applications using CGA. The ongoing research involves testing CGA-based simulations on physical robotic systems to advance tasks like trajectory planning, manipulation, and human-robot collaboration. Additionally, the code for the CGA-specific autoencoder will be released after submission rounds to publication are complete.
+
 - **Highlights**: [Read the full paper](https://github.com/GriffThomp1234/cga-motion-modeling/blob/main/docs/Final_Thesis.pdf) | [View the research poster](https://github.com/GriffThomp1234/cga-motion-modeling/blob/main/docs/S%26DS_THESIS_FINAL.pdf)  
 
 ### 2. [Enhancing DiffSDFSim for Advanced Robotics Applications](https://github.com/GriffThomp1234/DiffSDFSim_Enhancements)
