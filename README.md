@@ -1,7 +1,7 @@
 # Hey 👋, I'm Griffin Thompson
 
 ## 👨‍💻 About me
-- 🎓 I am currently pursuing a B.A. in Statistics and Data Science at Yale University, with a strong focus on Engineering, Robotics, and Hardware Development. I have extensive grounding in Machine Learning and Artificial Intelligence.
+- 🎓 I am currently pursuing a B.A. in Statistics and Data Science at Yale University, with a strong focus on Engineering, Robotics, and Biocomputation. I have extensive grounding in Machine Learning and Artificial Intelligence.
 - 🤖 I'm passionate about applying AI and robotics to solve real-world problems, particularly in the fields of neurotechnology, soft robotics, and medical devices. I have led and contributed to several high-impact research projects in these areas.
 - 💼 I am the Founder and President of Sling Health at Yale, a Robotics & Biotech Incubator. 
 - 💻 I’m skilled in Python, C++, R, and Julia, and have hands-on experience in deploying code on physical hardware, especially in robotics and neurotechnology.
