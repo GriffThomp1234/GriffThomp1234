@@ -29,7 +29,8 @@ This repository will be updated with further developments in physical robotic ap
 - **Result:** These advancements transform DiffSDFSim into a robust tool for advanced robotic simulations, enabling more realistic and efficient tasks like object manipulation, navigation, and human-robot interaction within the GRAB Lab at Yale.
 - **Highlights:** [Read the full write-up here](https://github.com/GriffThomp1234/DiffSDFSim_Enhancements/blob/main/docs/GrabLab_Paper.pdf). 
 
-### **3. Diffusion Policy System for Action Prediction in Robotics**
+### **3. [Diffusion Policy System for Action Prediction in Robotics](https://github.com/GriffThomp1234/diffusion-policy-robotics)**
+
 - **Affiliation**: Yale University, Apollo Lab, Yale Department of Computer Science  
 - **Goal**: Developing a novel diffusion policy system for action prediction in bimanual robotic systems. This project employs a specialized spiking U-Net neural network architecture tailored to handle the unique challenges of dynamic, coordinated robotic actions.  
 - **Current Status**: All iterations of the spiking U-Net architecture have been developed and are currently being tested to identify the optimal configuration with the best loss metrics. These results will inform the next steps of integrating the system into physical robotic platforms for validation and refinement.  
